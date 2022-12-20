@@ -1,0 +1,17 @@
+haskell-wcwidth (0.0.2-deepin1) unstable; urgency=medium
+
+  * Rebuild
+
+ -- Deepin Packages Builder <packages@deepin.org>  Mon, 14 Nov 2022 17:42:40 +0800
+
+haskell-wcwidth (0.0.2-2) unstable; urgency=medium
+
+  * Sourceful upload for GHC 8.8.
+
+ -- Clint Adams <clint@debian.org>  Mon, 01 Jun 2020 08:12:44 -0400
+
+haskell-wcwidth (0.0.2-1) unstable; urgency=low
+
+  * Initial release (Closes: #910361)
+
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Fri, 05 Oct 2018 13:10:27 +0300
